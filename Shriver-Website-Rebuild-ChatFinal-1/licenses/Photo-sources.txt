@@ -1,0 +1,25 @@
+PHOTO SOURCES
+
+User-supplied files, downloaded from the Pexels links below.
+Pexels license: https://www.pexels.com/license/
+Free commercial use and modification permitted under that license; attribution is not required. Photos illustrate service topics and do not represent the operator's completed projects.
+
+home-additions.jpg
+Section: home-additions
+Source: https://www.pexels.com/photo/an-interior-of-a-living-room-surrounded-by-glass-windows-6303114/
+
+kitchen.jpg
+Section: kitchens
+Source: https://www.pexels.com/photo/modern-open-space-kitchen-with-an-island-6303113/
+
+bathroom.jpg
+Section: bathrooms
+Source: https://www.pexels.com/photo/bathroom-interior-with-bathtub-next-to-shower-6758783/
+
+garage.jpg
+Section: garages
+Source: https://www.pexels.com/photo/photo-of-a-home-exterior-7578862/
+
+exterior-patio.jpg
+Section: exterior-services
+Source: https://www.pexels.com/photo/porch-of-a-house-with-furniture-7546776/
